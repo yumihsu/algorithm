@@ -1,7 +1,7 @@
 # algorithm
 
 # Data Struct
-- list
+- [list](https://github.com/yumihsu/algorithm/blob/main/data_struct/link_list.ipynb)
 - array
 - stack
 - queue
