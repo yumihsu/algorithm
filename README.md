@@ -7,7 +7,7 @@
 - queue
 - hash
 - heap
-- binary tree 
+- [binary tree](https://github.com/yumihsu/algorithm/blob/main/data_struct/balance_tree.ipynb)
 
 # sort
 - bubble
@@ -25,10 +25,10 @@
 - Breadth - first - search(BFS)
 - Depth - first - search(DFS)
 - Bellman - Ford
-- Dijkstra's 
+- Dijkstra's
 - A*
 
-# Securty 
+# Securty
 - hash function
 - shared - key cryptosystem
 - hybrid - key cryptosystem
@@ -41,7 +41,7 @@
 - K-means
 
 # others
-- Euclidean 
+- Euclidean
 - Primality test
 - Page Rank
 - Tower of Hanoi
