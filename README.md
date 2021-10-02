@@ -4,7 +4,7 @@
 - [list](https://github.com/yumihsu/algorithm/blob/main/data_struct/link_list.ipynb)
 - array
 - stack
-- queue
+- [queue](https://github.com/yumihsu/algorithm/blob/main/data_struct/queue.ipynb)
 - hash
 - heap
 - [binary tree](https://github.com/yumihsu/algorithm/blob/main/data_struct/balance_tree.ipynb)
@@ -25,6 +25,7 @@
 - Breadth - first - search(BFS)
 - Depth - first - search(DFS)
 - Bellman - Ford
+- greedy
 - Dijkstra's
 - A*
 
