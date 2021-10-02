@@ -1,8 +1,7 @@
 # algorithm
 
 # Data Struct
-- [list](https://github.com/yumihsu/algorithm/blob/main/data_struct/link_list.ipynb)
-- array
+- [Link_list](https://github.com/yumihsu/algorithm/blob/main/data_struct/link_list.ipynb)
 - stack
 - [queue](https://github.com/yumihsu/algorithm/blob/main/data_struct/queue.ipynb)
 - hash
