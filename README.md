@@ -19,7 +19,7 @@
 
 # Array Search
 - linear search
-- binary search
+- [binary search](https://github.com/yumihsu/algorithm/blob/main/Array%20Search/binary_search.ipynb)
 
 # Graph Search
 - Breadth - first - search(BFS)
