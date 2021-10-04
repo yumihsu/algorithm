@@ -11,10 +11,10 @@
 # sort
 - bubble
 - select
-- insert
+- [insert](https://github.com/yumihsu/algorithm/blob/main/Sort/insertion_sort.ipynb)
 - heap
 - merge
-- quick
+- [quick](https://github.com/yumihsu/algorithm/blob/main/Sort/quick_sort.ipynb)
 
 # Array Search
 - linear search
@@ -45,3 +45,7 @@
 - Primality test
 - Page Rank
 - Tower of Hanoi
+
+# leetcode
+- [0001_two_sum](https://github.com/yumihsu/algorithm/blob/main/leetcode/towsum.ipynb)
+- [invers_binary_tree](https://github.com/yumihsu/algorithm/blob/main/leetcode/invers_binary_tree.ipynb)
